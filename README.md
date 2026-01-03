@@ -6,22 +6,22 @@ This project combines embedding models with large language models to support qua
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔢 **Text Vectorization**
+- **Text Vectorization**
   - Converts raw text into dense semantic embeddings
   - Supports chunking for long documents
 
-- 🧠 **LLM-Based Theme Extraction**
+- **LLM-Based Theme Extraction**
   - Identifies high-level themes across documents
   - Produces human-readable thematic summaries
   - Supports inductive (data-driven) qualitative analysis
 
-- 📊 **Clustering & Similarity Analysis**
+- **Clustering & Similarity Analysis**
   - Groups semantically related texts
   - Enables theme refinement and comparison
 
-- 🔍 **Explainable Outputs**
+- **Explainable Outputs**
   - Natural-language explanations of extracted themes
   - Traceable clusters with representative text samples
 
